@@ -7,3 +7,4 @@ torchaudio==2.6.0+cu118
 --index-url https://download.pytorch.org/whl/cu118
 tensorboard
 tensorflow
+scipy
